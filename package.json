@@ -1,0 +1,16 @@
+{
+  "name": "BitMate-Docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.default.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "BitMate",
+  "license": "ISC",
+  "dependencies": {
+    "raneto": "0.13.0",
+    "debug" : "2.2.0"
+  }
+}
